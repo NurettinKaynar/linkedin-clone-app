@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Live Site
 
-https://linkedin-clone-app.narxtech.com/
+https://linkedin-clone-6ea79.web.app/
 
 ## Available Scripts
 
